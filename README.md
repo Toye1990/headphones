@@ -1,1 +1,3 @@
-# headphones
+# This project is going to be a concise one. It is going feature header which consist of the navigation bar and a welcome text that is a summary about the service rendered on this site. It also going to feature the body which consist of the main contents of the site. The content will be explicit and expressive for the viewers of this site. 
+Lastly, the project will feature a footer that will show the links of services rendered on the site and some social media handles.
+In summary, the project is going to feature a creative and a responsive web pages, that will be possible to be viewed on both desktop and mobile. 
